@@ -14,7 +14,7 @@
 
                      
                     }else if(usuario == "RobertoUMB" && Contraseña == "7891"|| usuario == "BenkisUMB" && Contraseña == "1011"||
-                    usuario == "RarenUMB" && Contraseña == "1010"|| usuario == "AndresUMB" && Contraseña == "117"
+                    usuario == "KarenUMB" && Contraseña == "1010"|| usuario == "AndresUMB" && Contraseña == "117"
                     || usuario == "LuisUMB" && Contraseña == "1112")
                     
                     {
